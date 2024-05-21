@@ -29,10 +29,15 @@ v-align-middle {
     padding-top: 50px;
     padding-left: 120px;
     padding-right: 120px;
-    background-color: darkgray;
+    background-color: rgba(169, 169, 169, 0.41);
 }
 
 .white {
     background-color: aliceblue;
     padding: 500px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
 }
