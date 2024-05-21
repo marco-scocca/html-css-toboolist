@@ -24,3 +24,15 @@ v-align-middle {
 .inline {
     display: inline-block;
 }
+
+.py-30 {
+    padding-top: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: darkgray;
+}
+
+.white {
+    background-color: aliceblue;
+    padding: 500px;
+}
