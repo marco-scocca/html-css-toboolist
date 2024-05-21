@@ -5,9 +5,7 @@
 }
 
 .logo {
-    height: 70px;
-    padding-top: 10px;
-    padding-left: 15px;
+    height: 100%;
     vertical-align: middle;
 
 }
@@ -15,6 +13,8 @@
 .nomelogo {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
+    vertical-align: middle;
+
 }
 
 v-align-middle {
@@ -34,7 +34,7 @@ v-align-middle {
 
 .white {
     background-color: aliceblue;
-    padding: 10px;
+    padding: 50px;
 }
 
 .container {
@@ -55,4 +55,17 @@ v-align-middle {
     padding: 5px;
     border-radius: 10px 10px 10px 10px;
     color: aliceblue;
+}
+
+hr {
+    color: darkgray;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.py2 {
+    margin-top: 20px;
 }
