@@ -34,10 +34,25 @@ v-align-middle {
 
 .white {
     background-color: aliceblue;
-    padding: 500px;
+    padding: 10px;
 }
 
 .container {
     width: 1000px;
     margin: 0 auto;
+}
+
+.bianco {
+    background-color: rgb(244, 255, 255);
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    color: darkgray;
+    border-color: gray;
+}
+
+.azzurrino {
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    color: aliceblue;
 }
